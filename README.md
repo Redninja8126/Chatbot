@@ -13,6 +13,8 @@ Chat Bot Web Application is a simple web page that demonstrates a chat bot inter
 
 ## Getting Started
 
+- copy the https url open after coping the url use ``` git clone https://github.com/username/repo_name.git ```
+
 ### Prerequisites
 
 - Web browser
